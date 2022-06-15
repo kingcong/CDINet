@@ -1,0 +1,142 @@
+
+
+All Tensors:
+
+index:	size:	real_size:	offset:	addr:	type:	lifelong:	life_start:	life_end:	source node name:
+%0T	#33554944S	#33554432S	&0	&0	Common	0	0	4	ResizeBilinear-op166
+%1T	#67109376S	#67108864S	&0	&0	Common	0	1	4	ResizeBilinear-op167
+%2T	#134218240S	#134217728S	&0	&0	Common	0	2	4	ResizeBilinear-op168
+%3T	#134218240S	#134217728S	&0	&0	Common	0	3	4	ResizeBilinear-op169
+%4T	#369099264S	#369098752S	&0	&0	Common	0	4	5	Concat-op170
+%5T	#16777728S	#16777216S	&0	&0	Common	0	5	6	Conv2D-op171
+%6T	#16777728S	#16777216S	&0	&0	Common	0	6	7	ReLU-op172
+%7T	#16777728S	#16777216S	&0	&0	Common	0	7	8	Conv2D-op173
+%8T	#16777728S	#16777216S	&0	&0	Common	0	8	58	Add-op174
+%9T	#16777728S	#16777216S	&0	&0	Common	0	9	12	ResizeBilinear-op175
+%10T	#33554944S	#33554432S	&0	&0	Common	0	10	12	ResizeBilinear-op176
+%11T	#33554944S	#33554432S	&0	&0	Common	0	11	12	ResizeBilinear-op177
+%12T	#83886592S	#83886080S	&0	&0	Common	0	12	13	Concat-op178
+%13T	#8389120S	#8388608S	&0	&0	Common	0	13	14	Conv2D-op179
+%14T	#8389120S	#8388608S	&0	&0	Common	0	14	15	ReLU-op180
+%15T	#8389120S	#8388608S	&0	&0	Common	0	15	16	Conv2D-op181
+%16T	#8389120S	#8388608S	&0	&0	Common	0	16	52	Add-op182
+%17T	#8389120S	#8388608S	&0	&0	Common	0	17	19	ResizeBilinear-op183
+%18T	#8389120S	#8388608S	&0	&0	Common	0	18	19	ResizeBilinear-op184
+%19T	#16777728S	#16777216S	&0	&0	Common	0	19	20	Concat-op185
+%20T	#4194816S	#4194304S	&0	&0	Common	0	20	21	Conv2D-op186
+%21T	#4194816S	#4194304S	&0	&0	Common	0	21	22	ReLU-op187
+%22T	#4194816S	#4194304S	&0	&0	Common	0	22	23	Conv2D-op188
+%23T	#4194816S	#4194304S	&0	&0	Common	0	23	44	Add-op189
+%24T	#2097664S	#2097152S	&0	&0	Common	0	24	25	ResizeBilinear-op190
+%25T	#2097664S	#2097152S	&0	&0	Common	0	25	26	Conv2D-op191
+%26T	#2097664S	#2097152S	&0	&0	Common	0	26	27	ReLU-op192
+%27T	#2097664S	#2097152S	&0	&0	Common	0	27	28	Conv2D-op193
+%28T	#2097664S	#2097152S	&0	&0	Common	0	28	36	Add-op194
+%29T	#524800S	#524288S	&0	&0	Common	0	29	30	Conv2D-op195
+%30T	#524800S	#524288S	&0	&0	Common	0	30	31	ReLU-op196
+%31T	#524800S	#524288S	&0	&0	Common	0	31	32	Conv2D-op197
+%32T	#524800S	#524288S	&0	&0	Common	0	32	33	ReLU-op198
+%33T	#524800S	#524288S	&0	&0	Common	0	33	34	Conv2D-op199
+%34T	#524800S	#524288S	&0	&0	Common	0	34	35	ReLU-op200
+%35T	#2097664S	#2097152S	&0	&0	Common	0	35	36	ResizeBilinear-op201
+%36T	#4194816S	#4194304S	&0	&0	Common	0	36	37	Concat-op202
+%37T	#2097664S	#2097152S	&0	&0	Common	0	37	38	Conv2D-op203
+%38T	#2097664S	#2097152S	&0	&0	Common	0	38	39	ReLU-op204
+%39T	#2097664S	#2097152S	&0	&0	Common	0	39	40	Conv2D-op205
+%40T	#2097664S	#2097152S	&0	&0	Common	0	40	41	ReLU-op206
+%41T	#1049088S	#1048576S	&0	&0	Common	0	41	42	Conv2D-op207
+%42T	#1049088S	#1048576S	&0	&0	Common	0	42	43	ReLU-op208
+%43T	#4194816S	#4194304S	&0	&0	Common	0	43	44	ResizeBilinear-op209
+%44T	#8389120S	#8388608S	&0	&0	Common	0	44	45	Concat-op210
+%45T	#4194816S	#4194304S	&0	&0	Common	0	45	46	Conv2D-op211
+%46T	#4194816S	#4194304S	&0	&0	Common	0	46	47	ReLU-op212
+%47T	#4194816S	#4194304S	&0	&0	Common	0	47	48	Conv2D-op213
+%48T	#4194816S	#4194304S	&0	&0	Common	0	48	49	ReLU-op214
+%49T	#2097664S	#2097152S	&0	&0	Common	0	49	50	Conv2D-op215
+%50T	#2097664S	#2097152S	&0	&0	Common	0	50	51	ReLU-op216
+%51T	#8389120S	#8388608S	&0	&0	Common	0	51	52	ResizeBilinear-op217
+%52T	#16777728S	#16777216S	&0	&0	Common	0	52	53	Concat-op218
+%53T	#8389120S	#8388608S	&0	&0	Common	0	53	54	Conv2D-op219
+%54T	#8389120S	#8388608S	&0	&0	Common	0	54	55	ReLU-op220
+%55T	#4194816S	#4194304S	&0	&0	Common	0	55	56	Conv2D-op221
+%56T	#4194816S	#4194304S	&0	&0	Common	0	56	57	ReLU-op222
+%57T	#16777728S	#16777216S	&0	&0	Common	0	57	58	ResizeBilinear-op223
+%58T	#33554944S	#33554432S	&0	&0	Common	0	58	59	Concat-op224
+%59T	#16777728S	#16777216S	&0	&0	Common	0	59	60	Conv2D-op225
+%60T	#16777728S	#16777216S	&0	&0	Common	0	60	61	ReLU-op226
+%61T	#786944S	#786432S	&0	&0	Common	0	61	62	Conv2D-op227
+%62T	#786944S	#786432S	&0	&0	Common	0	62	63	ReLU-op228
+%63T	#262656S	#262144S	&0	&0	OutputOnly	0	63	63	Conv2D-op229
+
+
+All Nodes:
+
+$0	ResizeBilinear-op166	0	inputs[%0P, ]	outputs[%0T, ]	workspace[]	streamID[@4294967295]
+$1	ResizeBilinear-op167	0	inputs[%1P, ]	outputs[%1T, ]	workspace[]	streamID[@4294967295]
+$2	ResizeBilinear-op168	0	inputs[%2P, ]	outputs[%2T, ]	workspace[]	streamID[@4294967295]
+$3	ResizeBilinear-op169	0	inputs[%3P, ]	outputs[%3T, ]	workspace[]	streamID[@4294967295]
+$4	Concat-op170	0	inputs[%3T, %2T, %1T, %0T, ]	outputs[%4T, ]	workspace[]	streamID[@4294967295]
+$5	Conv2D-op171	0	inputs[%4T, %4P, ]	outputs[%5T, ]	workspace[]	streamID[@4294967295]
+$6	ReLU-op172	0	inputs[%5T, ]	outputs[%6T, ]	workspace[]	streamID[@4294967295]
+$7	Conv2D-op173	0	inputs[%6T, %5P, ]	outputs[%7T, ]	workspace[]	streamID[@4294967295]
+$8	Add-op174	0	inputs[%7T, %6P, ]	outputs[%8T, ]	workspace[]	streamID[@4294967295]
+$9	ResizeBilinear-op175	0	inputs[%1P, ]	outputs[%9T, ]	workspace[]	streamID[@4294967295]
+$10	ResizeBilinear-op176	0	inputs[%2P, ]	outputs[%10T, ]	workspace[]	streamID[@4294967295]
+$11	ResizeBilinear-op177	0	inputs[%3P, ]	outputs[%11T, ]	workspace[]	streamID[@4294967295]
+$12	Concat-op178	0	inputs[%11T, %10T, %9T, ]	outputs[%12T, ]	workspace[]	streamID[@4294967295]
+$13	Conv2D-op179	0	inputs[%12T, %7P, ]	outputs[%13T, ]	workspace[]	streamID[@4294967295]
+$14	ReLU-op180	0	inputs[%13T, ]	outputs[%14T, ]	workspace[]	streamID[@4294967295]
+$15	Conv2D-op181	0	inputs[%14T, %8P, ]	outputs[%15T, ]	workspace[]	streamID[@4294967295]
+$16	Add-op182	0	inputs[%15T, %0P, ]	outputs[%16T, ]	workspace[]	streamID[@4294967295]
+$17	ResizeBilinear-op183	0	inputs[%2P, ]	outputs[%17T, ]	workspace[]	streamID[@4294967295]
+$18	ResizeBilinear-op184	0	inputs[%3P, ]	outputs[%18T, ]	workspace[]	streamID[@4294967295]
+$19	Concat-op185	0	inputs[%18T, %17T, ]	outputs[%19T, ]	workspace[]	streamID[@4294967295]
+$20	Conv2D-op186	0	inputs[%19T, %9P, ]	outputs[%20T, ]	workspace[]	streamID[@4294967295]
+$21	ReLU-op187	0	inputs[%20T, ]	outputs[%21T, ]	workspace[]	streamID[@4294967295]
+$22	Conv2D-op188	0	inputs[%21T, %10P, ]	outputs[%22T, ]	workspace[]	streamID[@4294967295]
+$23	Add-op189	0	inputs[%22T, %1P, ]	outputs[%23T, ]	workspace[]	streamID[@4294967295]
+$24	ResizeBilinear-op190	0	inputs[%3P, ]	outputs[%24T, ]	workspace[]	streamID[@4294967295]
+$25	Conv2D-op191	0	inputs[%24T, %11P, ]	outputs[%25T, ]	workspace[]	streamID[@4294967295]
+$26	ReLU-op192	0	inputs[%25T, ]	outputs[%26T, ]	workspace[]	streamID[@4294967295]
+$27	Conv2D-op193	0	inputs[%26T, %12P, ]	outputs[%27T, ]	workspace[]	streamID[@4294967295]
+$28	Add-op194	0	inputs[%27T, %2P, ]	outputs[%28T, ]	workspace[]	streamID[@4294967295]
+$29	Conv2D-op195	0	inputs[%3P, %13P, ]	outputs[%29T, ]	workspace[]	streamID[@4294967295]
+$30	ReLU-op196	0	inputs[%29T, ]	outputs[%30T, ]	workspace[]	streamID[@4294967295]
+$31	Conv2D-op197	0	inputs[%30T, %14P, ]	outputs[%31T, ]	workspace[]	streamID[@4294967295]
+$32	ReLU-op198	0	inputs[%31T, ]	outputs[%32T, ]	workspace[]	streamID[@4294967295]
+$33	Conv2D-op199	0	inputs[%32T, %15P, ]	outputs[%33T, ]	workspace[]	streamID[@4294967295]
+$34	ReLU-op200	0	inputs[%33T, ]	outputs[%34T, ]	workspace[]	streamID[@4294967295]
+$35	ResizeBilinear-op201	0	inputs[%34T, ]	outputs[%35T, ]	workspace[]	streamID[@4294967295]
+$36	Concat-op202	0	inputs[%35T, %28T, ]	outputs[%36T, ]	workspace[]	streamID[@4294967295]
+$37	Conv2D-op203	0	inputs[%36T, %16P, ]	outputs[%37T, ]	workspace[]	streamID[@4294967295]
+$38	ReLU-op204	0	inputs[%37T, ]	outputs[%38T, ]	workspace[]	streamID[@4294967295]
+$39	Conv2D-op205	0	inputs[%38T, %17P, ]	outputs[%39T, ]	workspace[]	streamID[@4294967295]
+$40	ReLU-op206	0	inputs[%39T, ]	outputs[%40T, ]	workspace[]	streamID[@4294967295]
+$41	Conv2D-op207	0	inputs[%40T, %18P, ]	outputs[%41T, ]	workspace[]	streamID[@4294967295]
+$42	ReLU-op208	0	inputs[%41T, ]	outputs[%42T, ]	workspace[]	streamID[@4294967295]
+$43	ResizeBilinear-op209	0	inputs[%42T, ]	outputs[%43T, ]	workspace[]	streamID[@4294967295]
+$44	Concat-op210	0	inputs[%43T, %23T, ]	outputs[%44T, ]	workspace[]	streamID[@4294967295]
+$45	Conv2D-op211	0	inputs[%44T, %19P, ]	outputs[%45T, ]	workspace[]	streamID[@4294967295]
+$46	ReLU-op212	0	inputs[%45T, ]	outputs[%46T, ]	workspace[]	streamID[@4294967295]
+$47	Conv2D-op213	0	inputs[%46T, %20P, ]	outputs[%47T, ]	workspace[]	streamID[@4294967295]
+$48	ReLU-op214	0	inputs[%47T, ]	outputs[%48T, ]	workspace[]	streamID[@4294967295]
+$49	Conv2D-op215	0	inputs[%48T, %21P, ]	outputs[%49T, ]	workspace[]	streamID[@4294967295]
+$50	ReLU-op216	0	inputs[%49T, ]	outputs[%50T, ]	workspace[]	streamID[@4294967295]
+$51	ResizeBilinear-op217	0	inputs[%50T, ]	outputs[%51T, ]	workspace[]	streamID[@4294967295]
+$52	Concat-op218	0	inputs[%51T, %16T, ]	outputs[%52T, ]	workspace[]	streamID[@4294967295]
+$53	Conv2D-op219	0	inputs[%52T, %22P, ]	outputs[%53T, ]	workspace[]	streamID[@4294967295]
+$54	ReLU-op220	0	inputs[%53T, ]	outputs[%54T, ]	workspace[]	streamID[@4294967295]
+$55	Conv2D-op221	0	inputs[%54T, %23P, ]	outputs[%55T, ]	workspace[]	streamID[@4294967295]
+$56	ReLU-op222	0	inputs[%55T, ]	outputs[%56T, ]	workspace[]	streamID[@4294967295]
+$57	ResizeBilinear-op223	0	inputs[%56T, ]	outputs[%57T, ]	workspace[]	streamID[@4294967295]
+$58	Concat-op224	0	inputs[%57T, %8T, ]	outputs[%58T, ]	workspace[]	streamID[@4294967295]
+$59	Conv2D-op225	0	inputs[%58T, %24P, ]	outputs[%59T, ]	workspace[]	streamID[@4294967295]
+$60	ReLU-op226	0	inputs[%59T, ]	outputs[%60T, ]	workspace[]	streamID[@4294967295]
+$61	Conv2D-op227	0	inputs[%60T, %25P, ]	outputs[%61T, ]	workspace[]	streamID[@4294967295]
+$62	ReLU-op228	0	inputs[%61T, ]	outputs[%62T, ]	workspace[]	streamID[@4294967295]
+$63	Conv2D-op229	0	inputs[%62T, %26P, ]	outputs[%63T, ]	workspace[]	streamID[@4294967295]
+
+
+All Stream Groups:
+
+
